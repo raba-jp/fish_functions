@@ -23,5 +23,8 @@ Interactively source code search.
 ### `__continuous_search_source_code`
 Interactively and continuous source code search.
 
+### `__select_history`
+Interactively select fish shell's history.
+
 ## License
 MIT

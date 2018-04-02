@@ -17,5 +17,11 @@ fisher raba-jp/fish_functions
 ### `__select_repository`
 Interactively select repository and change directory it.
 
+### `__search_source_code`
+Interactively source code search.
+
+### `__continuous_search_source_code`
+Interactively and continuous source code search.
+
 ## License
 MIT

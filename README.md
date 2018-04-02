@@ -26,5 +26,11 @@ Interactively and continuous source code search.
 ### `__select_history`
 Interactively select fish shell's history.
 
+### `__process_kill`
+Intaractively select and kill process.
+
+### `__force_process_kill`
+Intaractively select and force kill process.
+
 ## License
 MIT

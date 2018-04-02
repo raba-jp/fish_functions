@@ -32,5 +32,8 @@ Intaractively select and kill process.
 ### `__force_process_kill`
 Intaractively select and force kill process.
 
+### `__search_from_filename`
+Interactively search filename and open file.
+
 ## License
 MIT
